@@ -1,0 +1,7 @@
+{
+  "solana": {
+    "decimals": 9,
+    "bip32PathPrefix": "m/44'/501'/{index}'/0'",
+    "mnemonicKey": "SUPER_KMS_SOLANA_MNEMONIC"
+  }
+}

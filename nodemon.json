@@ -1,0 +1,6 @@
+{
+  "exec": "ts-node src/app.ts",
+  "watch": ["src"],
+  "ignore": ["src/routes/_routes_tsoa.ts"],
+  "ext": "ts"
+}
